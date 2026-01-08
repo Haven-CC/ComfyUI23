@@ -1,5 +1,10 @@
 # ComfyUI23
 
+![Stars](https://img.shields.io/github/stars/Haven-CC/ComfyUI23?style=social)
+![Issues](https://img.shields.io/github/issues/Haven-CC/ComfyUI23)
+![License](https://img.shields.io/github/license/Haven-CC/ComfyUI23)
+![Release](https://img.shields.io/github/v/release/Haven-CC/ComfyUI23?sort=semver)
+
 一个面向 ComfyUI 的中文友好型仓库，用于收集、演示和实验自定义节点与工作流示例，帮助你更高效地在本地进行 AI 流程的搭建与扩展。
 
 ## 特性
@@ -58,6 +63,11 @@ git clone https://github.com/your-username/ComfyUI23.git
 ## 交流与反馈
 - 有问题或建议：请提交 Issue 或开启讨论
 - 欢迎 PR：补充节点、优化示例、完善说明
+
+## 演示截图
+- 可在 `assets/` 目录添加截图，并在此处引用展示
+- 示例：工作流图、节点配置界面、生成结果对比
+- 若需要，我可以为你添加示例占位图与引用路径
 
 ## 许可证
 - 暂未指定统一许可证。若你在此基础上发布代码，请在你的文件中注明许可证条款。
